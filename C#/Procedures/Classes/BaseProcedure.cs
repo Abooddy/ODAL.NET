@@ -3,7 +3,6 @@
   BASE PROCEDURE
   ________________
 
-  Copyrights © [2018] Arab Information Technology
   Authored by Abdullah Adel
   ________________________________________________
 
