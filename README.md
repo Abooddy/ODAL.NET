@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Oracle Data Access Layer is a convention-based, native .NET library for accessing data in an Oracle database.
+Oracle Data Access Layer is a convention-based, native .NET library for executing CRUD operations and procedures on an Oracle database.
 
 The library is developed mainly for ASP.NET Core as it is well suited for the HTTP request executing and the unit of work concept. However, with slight modifications, you can make it work with .NET Framework without any issues.
 
